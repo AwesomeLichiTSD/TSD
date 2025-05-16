@@ -1,3 +1,58 @@
 # TSD
 
-Эта страница используется для информирования посетителей относительно [моих / наших] политик сбора, использования и раскрытия Личной информации, если кто-либо решил использовать [мою / нашу] услугу. Если вы решите использовать [мой / наш] Сервис, вы соглашаетесь на сбор и использование информации в соответствии с этой политикой. Личная информация, которую мы собираем, используется для предоставления и улучшения Сервиса. [Я / Мы] не будем использовать или передавать вашу информацию кому-либо, кроме случаев, описанных в настоящей Политике конфиденциальности. Термины, используемые в настоящей Политике конфиденциальности, имеют те же значения, что и в наших Условиях, которые доступны в ERPL, если иное не определено в настоящей Политике конфиденциальности. Сбор и использование информации Для лучшего использования при использовании нашего Сервиса мы можем потребовать, чтобы вы предоставили нам определенную личную информацию [имя пользователя, адрес, изображения] Информация, которую [Я / Мы] запрос будет [сохранен на вашем устройстве и не будет [мной / нами] каким-либо образом] / [оставлен нами и использован, как описано в настоящей политике конфиденциальности]. Приложение использует сторонние сервисы, которые могут собирать информацию, используемую для вашей идентификации. Ссылка на политику конфиденциальности сторонних поставщиков услуг, используемых приложением Сервисы Google Play Данные журнала [Я / Мы] хотим сообщить вам, что всякий раз, когда вы используете [мой / наш] Сервис, в случае ошибки в приложении [Я / Мы] собираем данные и информацию (через сторонние продукты) на вашем телефоне, называемую «Данные журнала». , Эти данные журнала могут включать в себя такую ​​информацию, как адрес интернет-протокола («IP») вашего устройства, имя устройства, версия операционной системы, конфигурация приложения при использовании [моей / нашей] службы, время и дата использования вами службы. и другая статистика. Печенье Файлы cookie - это файлы с небольшим объемом данных, которые обычно используются в качестве анонимных уникальных идентификаторов. Они отправляются в ваш браузер с посещаемых вами веб-сайтов и хранятся во внутренней памяти вашего устройства. Данный Сервис не использует эти «куки» явно. Тем не менее, приложение может использовать сторонний код и библиотеки, которые используют «куки» для сбора информации и улучшения своих услуг. У вас есть возможность принять или отклонить эти файлы cookie и узнать, когда файл cookie отправляется на ваше устройство. Если вы решите отказаться от наших файлов cookie, вы не сможете использовать некоторые части этой Услуги. Поставщики услуг [Я / Мы] могут нанимать сторонние компании и частных лиц по следующим причинам: Для облегчения нашего Сервиса; Предоставлять Сервис от нашего имени; Оказывать Сервис-связанные услуги; или Чтобы помочь нам в анализе того, как используется наш Сервис. [Я / Мы] хотим проинформировать пользователей данной Услуги о том, что эти третьи стороны имеют доступ к вашей Личной информации. Причина в том, чтобы выполнять порученные им задачи от нашего имени. Однако они обязаны не разглашать и не использовать информацию для каких-либо других целей. Безопасность [Я / Мы] ценим ваше доверие в предоставлении нам вашей Личной информации, поэтому мы стремимся использовать коммерчески приемлемые способы ее защиты. Но помните, что ни один метод передачи по Интернету или метод электронного хранения не является на 100% безопасным и надежным, и [Я / Мы] не может гарантировать его абсолютную безопасность. Ссылки на другие сайты Данный Сервис может содержать ссылки на другие сайты. Если вы нажмете на стороннюю ссылку, вы будете перенаправлены на этот сайт. Обратите внимание, что эти внешние сайты не управляются [мной / нами]. Поэтому [I / Мы] настоятельно рекомендуем вам ознакомиться с Политикой конфиденциальности этих веб-сайтов. [Я / Мы] не контролируют и не несут ответственности за содержание, политику конфиденциальности или действия любых сторонних сайтов или служб. Изменения в настоящей Политике конфиденциальности Мы можем время от времени обновлять нашу Политику конфиденциальности. Таким образом, вам рекомендуется периодически просматривать эту страницу на наличие изменений. Мы уведомим вас о любых изменениях, разместив новую Политику конфиденциальности на этой странице. Эти изменения вступают в силу сразу после их публикации на этой странице. Связаться с нами Если у вас есть какие-либо вопросы или предложения по поводу [моей / нашей] Политики конфиденциальности, не стесняйтесь обращаться к [мне / нам] по адресу awesome.erpl@yandex.ru. Эта страница политики конфиденциальности была создана на privacypolicytemplate.net и изменена / сгенерирована Генератором политики конфиденциальности приложения
+Privacy Policy
+
+This page is used to inform visitors regarding [my / our] policies with the collection, use, and disclosure of Personal Information if anyone decides to use [my / our] Service.
+
+If you choose to use [my / our] Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that [I / we] collect is used for providing and improving the Service. [I / We] will not use or share your information with anyone except as described in this Privacy Policy.
+
+The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible at ERPL unless otherwise defined in this Privacy Policy.
+
+Information Collection and Use
+
+For a better experience, while using our Service, [I / We] may require you to provide us with certain personally identifiable information [such as your username, address, images]. The information that [I / We] request will be [stored on your device and not collected by [me / us] in any way] / [retained by us and used as described in this Privacy Policy].
+
+The app does use third-party services that may collect information used to identify you.
+
+Link to privacy policy of third-party service providers used by the app:
+
+Google Play Services
+Log Data
+
+[I / We] want to inform you that whenever you use [my / our] Service, in a case of an error in the app [I / We] collect data and information (through third-party products) on your phone called “Log Data.” This Log Data may include information such as your device’s Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing [my / our] Service, the time and date of your use of the Service, and other statistics.
+
+Cookies
+
+Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device’s internal memory.
+
+This Service does not explicitly use these “cookies.” However, the app may use third-party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and to know when a cookie
+You have the option to either accept or refuse these cookies and to know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
+
+Service Providers
+
+[I / We] may employ third-party companies and individuals for the following reasons:
+
+To facilitate our Service;
+To provide the Service on our behalf;
+To perform Service-related services; or
+To assist us in analyzing how our Service is used.
+[I / We] want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+
+Security
+
+[I / We] value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and [I / We] cannot guarantee its absolute security.
+
+Links to Other Sites
+
+This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by [me / us]. Therefore, [I / We] strongly advise you to review the Privacy Policy of these websites. [I / We] have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+
+Changes to This Privacy Policy
+
+[I / We] may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. [I / We] will notify you of any changes by posting the new Privacy Policy on this page.
+
+These changes are effective immediately after they are posted on this page.
+
+Contact Us
+
+If you have any questions or suggestions about [my / our] Privacy Policy, do not hesitate to contact [me / us] at:
+awesome.erpl@yandex.ru
